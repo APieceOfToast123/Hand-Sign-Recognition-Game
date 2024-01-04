@@ -1,0 +1,3 @@
+0 Domain Expansion Sign
+1 Defense Sign
+2 Slash Sign
