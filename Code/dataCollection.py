@@ -10,7 +10,7 @@ detector = HandDetector(maxHands=1)
 offset = 20
 imgSize = 300
 
-folder = "../Data/A"
+folder = "../Data/Domain Expansion"
 counter = 0
 
 imgWhite = np.ones((imgSize, imgSize, 3), np.uint8) * 255

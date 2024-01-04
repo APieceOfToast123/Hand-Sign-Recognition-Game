@@ -1,3 +1,5 @@
-0 Domain Expansion Sign
-1 Defense Sign
-2 Slash Sign
+0 Unrecognizable Sign
+1  Fist Sign
+2 Defense Sign
+3 Slash Sign
+4 Domain Expansion Sign
